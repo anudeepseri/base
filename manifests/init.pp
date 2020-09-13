@@ -5,5 +5,6 @@
 # @example
 #   include base
 class base {
-  Host <<||>>
+#  Host <<||>>
+   File <<||>>
 }
